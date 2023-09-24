@@ -23,3 +23,5 @@
 hs_err_pid*
 replay_pid*
 /Leccion02_Ejemplo1/nbproject/private/
+/Leccion02_Ejemplo1/build/
+/Leccion02_Ejemplo1/dist/
